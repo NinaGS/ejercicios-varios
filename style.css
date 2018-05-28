@@ -1,0 +1,142 @@
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	/*padding-top: 100px;*/
+	
+}
+
+header {
+	background: url('images/bg.jpeg');
+	height: 100%;
+	width: 100%;
+}
+
+
+.latam_logo{
+	width: 120px;
+	margin-left: 20%;
+	margin-top: 60px;
+	
+}
+
+.menu
+{
+	float: right;
+	margin-top: 60px;
+	margin-right: 10%;
+	
+}
+
+.menu a
+{
+	color:#f7f7f7;
+	margin-right: 5%
+		
+}
+
+
+/*.menu a:link 
+{ 
+	text-decoration:none; 
+} */
+
+
+
+button{
+	border-radius: 10px;
+	width: 120px;
+    height: 60px;
+	background-color: #007ac9;
+    border: 2px solid #007ac9;
+    color: #fff;
+    font-size: 15px;
+  
+}
+
+
+.párrafo1 {
+	color: white;
+	text-align: center;
+	padding-bottom: 100px;
+
+}
+
+
+.buttons{
+	text-align: center;
+}
+
+
+.bootCamp {
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-top: 60px;
+
+
+}
+
+.imagenBootCamp {
+	width: 45%; 
+
+	/*margin-left: 30%;*/
+}
+
+
+hr
+{
+	margin-top: -3.7px;
+	margin-bottom: -1px;
+}
+
+
+
+.solicitaInformacion
+{
+	width: 100%;
+    height: 300px;
+    background-color: #f7f7f7; 
+    text-align: center;
+
+
+  
+}
+
+.divSolicitaInformacion{
+	padding-top: 30px;
+	font-family: sans-serif;
+
+}
+
+#footerUno{
+	margin-left: 30%;
+	margin-right: 20%;
+	padding-top: 30px;
+	height: 250px;
+
+}
+
+.contacto{
+	float: left;
+}
+
+.suscribete{
+	float: right;
+}
+
+#footerDos{
+	background-color: #3d3d3d;
+	width: 100%;
+	height: 90px;
+
+}
+
+#footerDos p 
+{
+	color: white;
+	padding: 25px 0px 0px 250px;
+}
+
+
